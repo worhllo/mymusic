@@ -9,8 +9,8 @@ directory_path = "./musics/"  # 请将路径替换为实际的目录路径
 bak_path = "./Baks/"  # 请将路径替换为实际的目录路径
 
 # 构建URL的基本部分
-base_url = "https://github.com/lihan3238/music/raw/main/musics/"  # 请将路径替换为实际的目录路径
-base_lrc_url = "https://raw.githubusercontent.com/lihan3238/music/main/musics/"  # 请将路径替换为实际的目录路径
+base_url = "https://github.com/worhllo/mymusic/raw/main/musics/"  # 请将路径替换为实际的目录路径
+base_lrc_url = "https://raw.githubusercontent.com/worhllo/mymusic/main/musics/"  # 请将路径替换为实际的目录路径
 # 获取目录中的所有文件名
 file_names = [
     file
